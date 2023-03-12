@@ -1,7 +1,6 @@
 from gedcom.element.individual import IndividualElement
 from gedcom.parser import Parser
 from datetime import datetime
-
 import argparse
 
 parser = argparse.ArgumentParser(description="Create barcodes.")
