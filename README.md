@@ -1,6 +1,6 @@
 # gedcard
 
-A python script to convert GEDCOM a file to a VCard list of contacts.
+A python script to convert GEDCOM (.ged) a file to a VCard (.vcf) list of contacts.
 
 Parameters:
 
